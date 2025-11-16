@@ -1,0 +1,7 @@
+{
+  "name": "Zen University Activity Boost",
+  "description": "A map-based app for Zen University students to find and connect with others in their region, facilitating real-world communication and collaboration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
